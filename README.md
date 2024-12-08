@@ -7,7 +7,9 @@ Search recipes by ingredients or dietary preferences.
 View detailed recipe information, including instructions and nutrition.
 Generate meal plans for a day or week.
 User-friendly, responsive design with Tailwind CSS.
+
 Technologies Used
 Frontend: React, Tailwind CSS
 API: Spoonacular API
 Version Control: Git and GitHub
+
